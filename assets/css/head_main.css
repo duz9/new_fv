@@ -1,0 +1,41 @@
+body {font-family: 'Open Sans', sans-serif; color: #757575}
+h1, h2, h3, h4, h5, h6 {font-family: 'Roboto Slab', serif;}
+header {text-transform: uppercase;}
+a {color: #fff; text-decoration: none}
+a:hover {color: #099f93; text-decoration: none;}
+.bg-light { background-color: #fff!important;}
+.text-dark {color: #757575!important}
+.btn-primary {color: #fff; background-color: #1a3639; border-color: #1a3639;}
+a.btn-primary:hover {color: #fff; background-color: #099f93; border-color: #099f93;}
+header nav a {font-weight:600}
+.footer-credits{color: #999999}
+.footer-credits a {color: #fff}
+.footer-credits a:hover {color: #099f93}
+footer {background-color: #1a3639; padding: 80px 0;}
+.footer-links {font-size: small;}
+.jumbotron h1, .bg-jumbotron p {text-shadow: rgba(0, 0, 0, 0.2) 2px 2px 2px;}
+.jumbotron h2 {text-shadow: rgba(0, 0, 0, 0.6) 3px 3px 3px;}
+.jumbotron h1 {font-size: 2.5rem;font-weight: 700}
+.jumbotron p {font-size: 13px; font-weight: 600 text-shadow: rgba(0, 0, 0, 0.6) 3px 3px 3px;}
+.bg-jumbotron {background: linear-gradient( rgba(0, 0, 0, 0.00), rgba(0, 0, 0, 0.65) ), url("../img/home/hero-2.webp"); background-size: cover; background-repeat: no-repeat;}
+.un-colours {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("../img/un-teach.webp"); background-size: cover; background-repeat: no-repeat;}
+.core-buffer-zones {background: linear-gradient( rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.15) ), url("../img/maps_low.webp"); background-size: cover; background-repeat: no-repeat;}
+.fortress {background: linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.35) ), url("../img/home/banner_light.png"); background-size: cover; background-repeat: no-repeat;}
+.itinerario-1 {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("../img/home/2.jpg"); background-size: cover; background-repeat: no-repeat; flex-basis: auto;}
+.itinerario-2 {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("../img/home/3.jpg"); background-size: cover; background-repeat: no-repeat; flex-basis: auto;}
+.itinerario-3 {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("../img/home/1.jpg"); background-size: cover; background-repeat: no-repeat; flex-basis: auto;}
+.bg-banner {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("../img/bg-gallery/1.webp"); background-size: cover; background-repeat: no-repeat; flex-basis: auto;}
+.ps-banner {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("../img/ps-gallery/1.webp"); background-size: cover; background-repeat: no-repeat; flex-basis: auto;}
+.pn-banner {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("../img/pn-gallery/1.webp"); background-size: cover; background-repeat: no-repeat; flex-basis: auto;}
+.virtual-bg {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("../img/home/bg.webp"); background-size: cover; background-repeat: no-repeat; flex-basis: auto;}
+.virtual-ps {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("../img/home/ps.webp"); background-size: cover; background-repeat: no-repeat; flex-basis: auto;}
+.virtual-pn {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("../img/home/pn.webp"); background-size: cover; background-repeat: no-repeat; flex-basis: auto;}
+.virtual-ms {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("../img/home/vt_cover.webp"); background-size: cover; background-repeat: no-repeat; flex-basis: auto;}
+.teach {background: linear-gradient( rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.25) ), url("../img/teach.webp"); background-size: cover; background-repeat: no-repeat;}
+.itinerario-1, .itinerario-2, .itinerario-3 {text-shadow: rgba(0, 0, 0, 0.2) 2px 2px 2px;}
+.itinerario-1, .itinerario-2, .itinerario-3 p {font-size: 13px}
+.shade{background-color: rgba(0,0,0,0.4);}
+.flex-equal > * {flex: 1;}
+.card-header {color: #FFF; background-color: #AE1065;}
+{background-color: rgba(0,0,0,0.4); color: #ffffff;}
+@media (min-width: 768px) {.flex-md-equal > * {flex: 1;}}
